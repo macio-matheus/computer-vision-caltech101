@@ -1,1 +1,3 @@
-# Classification of images with convolutional networks and date augmentation
+# Computer vision 
+
+Classification of images with convolutional networks and date augmentation
