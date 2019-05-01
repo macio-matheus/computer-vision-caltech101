@@ -1,0 +1,9 @@
+crab/
+    file.jpg
+    ...
+pizza/
+    file.jpg
+    ...
+Faces_easy/
+    file.jpg
+    ...
