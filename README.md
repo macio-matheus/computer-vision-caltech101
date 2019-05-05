@@ -2,6 +2,8 @@
 
 Multilabel classification using convolutional networks. This project uses the dataset Caltech 101, a famous database for computer vision applications.
 
+------
+
 ### The data augmentation
 
 We selected 3 different classes of the dataset caltech101: Crab; Faces_Easy and Pizza. Below is a graph indicating the percentage of each:
