@@ -1,5 +1,7 @@
 ## Image Classifier Multi-Label
 
+By: Mácio Matheus Santos de Arruda
+
 Multilabel classification using convolutional networks. This project uses the dataset Caltech 101, a famous database for computer vision applications.
 
 ------
