@@ -22,6 +22,11 @@ Five images were generated for each image in the dataset. Below is an example of
 ![Data Aug](https://raw.githubusercontent.com/macio-matheus/computer-vision/master/docs/data_aug.png)
 
 
+Instance quantity per class after data augmentation
+
+![hist](https://raw.githubusercontent.com/macio-matheus/computer-vision/master/docs/data_hist.png)
+
+
 ### The CNN Summary
 
 Using Keras, the neural network below was assembled to solve the presented classification problem:
