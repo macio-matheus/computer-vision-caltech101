@@ -4,7 +4,7 @@ Multilabel classification using convolutional networks. This project uses the da
 
 ------
 
-### The data augmentation
+### The dataset
 
 We selected 3 different classes of the dataset caltech101: Crab; Faces_Easy and Pizza. Below is a graph indicating the percentage of each:
 
