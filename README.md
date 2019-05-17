@@ -40,6 +40,13 @@ Parameterization used in the model
 
 ![Params](https://raw.githubusercontent.com/macio-matheus/computer-vision/master/docs/params_model.png)
 
+### Train / Validation Split
+
+As in the image, for the validation set that compose the metrics measured in the training, a percentage of 33% of the data in the training images folder is defined in the Keras generator by the parameter validation_split.
+
+Note: The Live Test is performed with a set of images that do not participate in the training.
+
+![Params](https://raw.githubusercontent.com/macio-matheus/computer-vision/master/docs/train-test.png)
 
 ### Results Loss and Accuracy
 
