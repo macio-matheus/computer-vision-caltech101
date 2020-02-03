@@ -73,7 +73,7 @@ access the Jupyter that is ready to be used.
 #### Run with docker compose
 
 ```sh
-cd computer-vision
+cd computer-vision-caltech101
 docker-compose up -d
 ```
 
